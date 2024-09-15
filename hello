@@ -3,6 +3,7 @@ getgenv().Setting = {
     AutoSkipWave=true,
     AutoClaimQuest = true,
     CapFps = true,
+    SelectLeaveWaveOneClick = 46,
     FpsBoost = true,
     WebhookUrl = "",
     OneClickNewSetting = { 
